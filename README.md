@@ -24,6 +24,14 @@ The main features of this enclosure are:
 - Two variants available: with or without a cutout on the lid to access
   the GPIO pins.
 
+In the [3dmodel](3dmodel/) folder you will find:
+
+- The 3D STL model for both variants.
+
+- The `.3mf` files that are created by `Bambu Lab Studio` and that
+  contains the 3D model plus the `print profile` with printing
+  parameters I used on my `Bambu Lab A1` printer.
+
 In the [img](img/) folder you will find more enclosure images.
 
   
