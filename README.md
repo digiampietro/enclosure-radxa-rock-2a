@@ -28,10 +28,19 @@ In the [3dmodel](3dmodel/) folder you will find:
 
 - The 3D STL model for both variants.
 
-- The `.3mf` files that are created by `Bambu Lab Studio` and that
-  contains the 3D model plus the `print profile` with printing
-  parameters I used on my `Bambu Lab A1` printer.
+- The `.3mf` files are created by *Bambu Lab Studio*, they contain the
+  3D model and the *print profile* with printing parameters I used on
+  my *Bambu Lab A1* printer.
 
 In the [img](img/) folder you will find more enclosure images.
 
+# Notes
+
+- To close or open the enclosure, gently press the base with your
+  fingers near the snap joints to facilitate the process. Be careful
+  not to bend the lid during removal or insertion to avoid breaking
+  the standoffs.
+
+- To remove the SD card, you can use a small flathead screwdriver
+  instead of your fingernail.
   
